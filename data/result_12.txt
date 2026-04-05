@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Anna Rodriguez
+Patient ID: 334455
+Age: 28
+
+Subjective: Anna Rodriguez, a 28-year-old female, presents with a two-week history of increasing shortness of breath, coughing, and chest discomfort. She reports that the cough is dry and worse at night, and she feels fatigued. Anna also mentions low-grade fever and occasional chills. She has no significant medical history but notes recent exposure to a coworker with respiratory illness. She denies any wheezing, sputum production, or hemoptysis.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 92 bpm, Temp 37.8°C, RR 20/min, O2 saturation 96% on room air. On physical examination, the lungs have scattered crackles bilaterally, especially at the bases. No wheezing or rhonchi are noted. Cardiovascular examination is unremarkable. Chest X-ray shows diffuse bilateral infiltrates. Complete blood count shows leukocytosis with a white blood cell count of 12,500/mm³. C-reactive protein (CRP) is elevated.
+
+Assessment: Anna is diagnosed with viral pneumonia, based on her symptoms of cough, shortness of breath, fever, and the chest X-ray findings of diffuse infiltrates. The elevated CRP and leukocytosis further support the diagnosis of an infectious process.
+
+Plan: Initiate supportive care with antipyretics (acetaminophen 500 mg every 6 hours as needed for fever) and plenty of fluids. Prescribe a course of oral antibiotics (azithromycin 500 mg on day 1, followed by 250 mg once daily for 4 days) to cover for any possible secondary bacterial infection. Advise rest and monitoring of symptoms, including any worsening shortness of breath or fever. Schedule a follow-up in one week or sooner if symptoms worsen. Consider referral for a pulmonologist if no improvement is seen in two weeks.

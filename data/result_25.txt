@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Fatima Al-Nasseri
+Patient ID: 882299
+Age: 36
+Location: Yemen
+
+Subjective: Fatima Al-Nasseri, a 36-year-old female, presents with complaints of frequent episodes of heartburn and a burning sensation in her chest, particularly after meals and when lying down. She reports that the discomfort has been ongoing for the past several months, and she often experiences regurgitation of acidic fluid into her mouth. Fatima has tried over-the-counter antacids with partial relief. She denies any weight loss, vomiting, or difficulty swallowing. She has a history of mild hypertension but is otherwise healthy.
+
+Objective: Vital signs: BP 130/85 mmHg, HR 78 bpm, Temp 36.9°C, RR 18/min. Physical examination shows no acute distress. Abdominal examination is unremarkable with no tenderness or masses. There is no evidence of jaundice or peripheral edema. Lab results, including complete blood count and liver function tests, are within normal limits.
+
+Assessment: Fatima is diagnosed with gastroesophageal reflux disease (GERD), based on her symptoms of heartburn, regurgitation, and response to antacids. The absence of alarming features such as weight loss or dysphagia suggests uncomplicated GERD.
+
+Plan: Initiate a proton pump inhibitor (omeprazole 20 mg daily) to reduce acid production and relieve symptoms. Advise Fatima to avoid trigger foods such as spicy and fatty foods, caffeine, and chocolate. Recommend eating smaller meals and not lying down immediately after eating. Suggest elevating the head of the bed to reduce nighttime symptoms. Schedule a follow-up in 4 weeks to assess symptom control and adjust the treatment plan if necessary. If symptoms persist, consider referral for an upper endoscopy to rule out other conditions such as peptic ulcer disease or Barrett’s esophagus.

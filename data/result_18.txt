@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Sophia Garcia
+Patient ID: 334455
+Age: 28
+
+Subjective: Sophia Garcia, a 28-year-old female, presents with complaints of a sore throat, difficulty swallowing, and a mild fever for the past three days. She also reports fatigue and swollen glands in her neck. She denies any cough, runny nose, or recent exposure to sick individuals. Sophia mentions similar symptoms occurring several months ago but notes that they resolved without treatment. Her medical history is unremarkable, and she has no known allergies.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 78 bpm, Temp 38.2°C, RR 16/min. Physical examination reveals erythematous and swollen tonsils with white exudates. Bilateral cervical lymphadenopathy is present, with tender nodes palpated in the anterior chain. No signs of respiratory distress are noted, and lung auscultation is clear. A rapid strep test is positive, and throat culture is pending.
+
+Assessment: Sophia is diagnosed with streptococcal pharyngitis (strep throat), based on her symptoms of sore throat, fever, and positive rapid strep test.
+
+Plan: Prescribe a 10-day course of penicillin V 500 mg twice daily to treat the infection. Recommend over-the-counter acetaminophen 500 mg every 6 hours as needed for fever and pain relief. Advise rest, increased fluid intake, and warm saltwater gargles to soothe the throat. Instruct Sophia to return if symptoms worsen or if she develops difficulty breathing or swallowing. Schedule a follow-up in 7 days if symptoms persist or recur after completing the antibiotic course.

@@ -1,0 +1,14 @@
+
+Patient Note:
+
+Patient Name: Laura Chen
+Patient ID: 223344
+Age: 38
+
+Subjective: Laura Chen, a 38-year-old female, presents with intermittent episodes of abdominal pain over the past two weeks. She describes the pain as a dull, cramping sensation in the lower abdomen, sometimes radiating to her lower back. The pain worsens after meals and is associated with bloating and occasional nausea. Laura reports alternating between constipation and diarrhea. She denies any blood in her stool, weight loss, or fever. Her medical history is unremarkable, and she has no known food allergies or significant family history of gastrointestinal diseases.
+
+Objective: Vital signs: BP 120/78 mmHg, HR 72 bpm, Temp 36.8°C, RR 16/min. Abdominal examination reveals mild tenderness to palpation in the lower abdomen without guarding or rebound tenderness. Bowel sounds are present and active. No palpable masses or organomegaly are noted. Laboratory tests, including a complete blood count, basic metabolic panel, and stool occult blood test, are all within normal limits. An abdominal ultrasound shows no abnormalities.
+
+Assessment: Laura is diagnosed with irritable bowel syndrome (IBS), based on her symptoms of abdominal pain, bloating, and changes in bowel habits, in the absence of any red flag signs or abnormal findings on examination and laboratory tests.
+
+Plan: Recommend a high-fiber diet and increased water intake to help regulate bowel movements. Prescribe an antispasmodic medication (hyoscine 10 mg three times daily) for abdominal cramps. Suggest avoiding known triggers, such as fatty foods, caffeine, and stress. Refer Laura to a dietitian for guidance on a low-FODMAP diet if symptoms persist. Schedule a follow-up appointment in 4 weeks to monitor symptom improvement and adjust treatment if necessary. Encourage regular exercise and stress management techniques, such as yoga or meditation, to alleviate IBS symptoms.

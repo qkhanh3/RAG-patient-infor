@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Susan Parker
+Patient ID: 778899
+Age: 34
+
+Subjective: Susan Parker, a 34-year-old female, presents with complaints of a persistent dry cough, low-grade fever, and shortness of breath over the past two weeks. She reports feeling fatigued and has noticed mild chest discomfort when breathing deeply. Susan denies any recent travel or known exposure to individuals with respiratory infections. She has no history of asthma or allergies but mentions that her symptoms began shortly after recovering from a cold. She denies any weight loss, night sweats, or hemoptysis.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 88 bpm, Temp 37.8°C, RR 20/min, O2 saturation 96% on room air. On physical examination, the lungs exhibit decreased breath sounds with crackles heard at the bases bilaterally. No wheezing or signs of respiratory distress are noted. Chest X-ray reveals bilateral infiltrates in the lower lobes consistent with atypical pneumonia. Laboratory results show a mildly elevated white blood cell count and negative influenza and COVID-19 tests.
+
+Assessment: Susan is diagnosed with atypical pneumonia, likely caused by a bacterial pathogen such as Mycoplasma pneumoniae, given her respiratory symptoms and chest X-ray findings. The absence of wheezing or a history of asthma suggests a lower respiratory tract infection.
+
+Plan: Start a course of azithromycin 500 mg on day 1, followed by 250 mg daily for the next 4 days. Recommend rest, increased fluid intake, and acetaminophen as needed for fever and discomfort. Instruct Susan to monitor her symptoms and return if she experiences worsening shortness of breath, chest pain, or high fever. Schedule a follow-up appointment in one week to assess her response to treatment and consider further investigations if symptoms persist.

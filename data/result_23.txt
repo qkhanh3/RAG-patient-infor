@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Omar Al-Haddad
+Patient ID: 774455
+Age: 45
+Location: Yemen
+
+Subjective: Omar Al-Haddad, a 45-year-old male, presents with complaints of joint pain and stiffness in his knees and hands for the past year. He reports the pain is worse in the mornings and improves with movement throughout the day. He has difficulty climbing stairs and performing daily activities like gripping objects. Omar denies any fever, weight loss, or recent trauma. He has a family history of arthritis but no other significant medical history.
+
+Objective: Vital signs: BP 128/82 mmHg, HR 75 bpm, Temp 37°C, RR 18/min. Physical examination reveals tenderness and swelling in the bilateral knee joints with reduced range of motion. The hands show bony enlargements at the distal interphalangeal joints (Heberden’s nodes) and proximal interphalangeal joints (Bouchard’s nodes). No signs of erythema or warmth are observed. Laboratory tests show a normal ESR and CRP, with negative rheumatoid factor. X-rays of the knees and hands reveal joint space narrowing and osteophyte formation consistent with osteoarthritis.
+
+Assessment: Omar is diagnosed with osteoarthritis based on his clinical symptoms and radiographic findings. The degenerative changes in the knees and hands suggest a chronic condition with no inflammatory markers indicative of other arthritic conditions.
+
+Plan: Begin conservative management with acetaminophen 1g up to four times daily for pain relief. Encourage regular low-impact exercises like swimming and cycling to improve joint mobility. Discuss weight management strategies to reduce stress on the knee joints. Refer Omar to physical therapy for strengthening exercises. If pain persists, consider the use of NSAIDs (ibuprofen 400 mg as needed) and evaluate for intra-articular corticosteroid injections. Schedule a follow-up appointment in 6 weeks to assess symptom control and discuss further treatment options.

@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Susan Miller
+Patient ID: 334455
+Age: 64
+
+Subjective: Susan Miller, a 64-year-old female, presents with complaints of persistent joint pain and stiffness in her hands, wrists, and knees for the past six months. The pain is worse in the mornings and improves with movement throughout the day. She reports swelling in her fingers and occasional fatigue. Susan denies any recent injuries or fever. She has a family history of rheumatoid arthritis, as her mother was diagnosed in her late 50s.
+
+Objective: Vital signs: BP 125/80 mmHg, HR 78 bpm, Temp 36.9°C, RR 16/min. Physical examination reveals swelling, tenderness, and limited range of motion in the metacarpophalangeal and proximal interphalangeal joints of both hands. Mild swelling is noted in the knees, with no erythema or warmth. Lab tests show elevated ESR (40 mm/hr) and positive rheumatoid factor. X-rays of the hands and knees show joint space narrowing and early erosions.
+
+Assessment: Susan is diagnosed with rheumatoid arthritis based on her symptoms of joint pain, morning stiffness, swelling, and positive serologic markers. The radiographic findings further confirm the diagnosis.
+
+Plan: Start Susan on methotrexate 15 mg weekly with folic acid supplementation to prevent side effects. Prescribe NSAIDs (ibuprofen 400 mg as needed) for pain relief. Refer her to a rheumatologist for further evaluation and possible escalation to biologic therapy if needed. Encourage regular, low-impact exercise and physical therapy to maintain joint function. Schedule a follow-up in 4 weeks to assess response to treatment and adjust the regimen if necessary.

@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Lars De Vries
+Patient ID: 554433
+Age: 35
+Location: Netherlands
+
+Subjective: Lars De Vries, a 35-year-old male, presents with a 5-day history of profuse watery diarrhea, abdominal cramps, nausea, and mild fever. He reports 5-6 bowel movements per day, which are watery but not bloody. He feels fatigued and has experienced mild weight loss. Lars mentions recently swimming in a local pool but denies any known exposure to sick individuals. He has no significant medical history and is not on any regular medications. He is concerned about his ongoing symptoms, which have not improved with increased fluid intake.
+
+Objective: Vital signs: BP 115/75 mmHg, HR 82 bpm, Temp 37.8°C, RR 18/min. Physical examination reveals mild diffuse abdominal tenderness without rebound or guarding. Bowel sounds are hyperactive. There is no abdominal distension. He appears slightly dehydrated, with dry mucous membranes and decreased skin turgor. Laboratory tests show normal complete blood count, mild electrolyte imbalances, and elevated urea levels. Stool examination confirms the presence of Cryptosporidium oocysts.
+
+Assessment: Lars is diagnosed with cryptosporidiosis, based on his symptoms of watery diarrhea, abdominal cramps, recent exposure to contaminated water (pool), and stool examination confirming Cryptosporidium infection. His mild dehydration and electrolyte imbalance are secondary to the diarrheal illness.
+
+Plan: Initiate oral rehydration therapy to correct dehydration and electrolyte imbalances. Prescribe nitazoxanide 500 mg twice daily for 3 days to treat the Cryptosporidium infection. Advise Lars to continue staying hydrated with oral rehydration solutions and to avoid swimming pools and other potential sources of contamination until fully recovered. Schedule a follow-up in 1 week to reassess symptoms and ensure recovery. If diarrhea persists or symptoms worsen, consider further stool testing and additional supportive care. Educate Lars on proper hand hygiene and water safety to prevent future infections.

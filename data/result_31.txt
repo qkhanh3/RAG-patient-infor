@@ -1,0 +1,15 @@
+
+Patient Note:
+
+Patient Name: Satoshi Yamamoto
+Patient ID: 665544
+Age: 52
+Location: Japan
+
+Subjective: Satoshi Yamamoto, a 52-year-old male, presents with complaints of persistent dizziness and episodes of spinning sensation (vertigo) that last a few minutes and are triggered by changes in head position. He reports feeling nauseous during these episodes but denies any hearing loss or ringing in the ears. The symptoms have been ongoing for the past two weeks, occurring primarily when getting out of bed or turning his head quickly. Satoshi has no prior history of vertigo or ear infections, and he denies any recent head trauma.
+
+Objective: Vital signs: BP 130/80 mmHg, HR 72 bpm, Temp 36.8°C, RR 16/min. Physical examination reveals a positive Dix-Hallpike test with nystagmus, confirming positional vertigo. No hearing loss or abnormalities in the ear canal are noted. Neurological exam is normal, with no focal deficits or signs of central nervous system involvement. Lab results are within normal limits, and there is no evidence of infection or inflammation.
+
+Assessment: Satoshi is diagnosed with benign paroxysmal positional vertigo (BPPV), based on his symptoms of vertigo triggered by head movements and the positive Dix-Hallpike test. His condition is likely due to dislodged otoliths in the inner ear.
+
+Plan: Perform the Epley maneuver in the office to reposition the otoliths and alleviate symptoms. Advise Satoshi to avoid rapid head movements for the next few days and instruct him on home exercises to prevent recurrence. Recommend over-the-counter meclizine 25 mg as needed for nausea and dizziness. Schedule a follow-up appointment in one week to reassess his symptoms and ensure resolution. If symptoms persist, consider referral to an otolaryngologist for further evaluation

@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Angela Martinez
+Patient ID: 334455
+Age: 29
+
+Subjective: Angela Martinez, a 29-year-old female, presents with a persistent headache and visual disturbances for the past three weeks. She describes the headache as a constant, throbbing pain localized to the right side of her head. Angela also reports seeing flashing lights and occasional blurred vision, particularly when the headache intensifies. She has tried over-the-counter pain medications with minimal relief. Angela mentions increased sensitivity to light and sound during these episodes. She denies any recent head trauma, fever, or neurological deficits.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 72 bpm, Temp 36.5°C, RR 16/min. Neurological examination is normal with intact cranial nerves, normal muscle strength, and no signs of focal deficits. Ophthalmic examination reveals no papilledema or other abnormalities. A CT scan of the head shows no acute intracranial pathology. Laboratory tests, including a complete blood count and basic metabolic panel, are within normal limits.
+
+Assessment: Angela is diagnosed with migraine headaches, based on her symptoms of unilateral throbbing headache, visual disturbances, and response to typical migraine triggers such as light and sound. The absence of alarming findings on imaging and normal neurological exam support this diagnosis.
+
+Plan: Prescribe sumatriptan 50 mg to be taken at the onset of headache episodes, with a maximum of two doses per 24 hours. Recommend lifestyle modifications including regular sleep patterns, hydration, and avoidance of known migraine triggers such as stress and certain foods. Advise Angela to keep a headache diary to track frequency, duration, and potential triggers. If symptoms persist or worsen despite treatment, consider a preventive medication such as topiramate. Schedule a follow-up in 6 weeks to assess the effectiveness of the treatment and make any necessary adjustments.

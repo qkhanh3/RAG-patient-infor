@@ -1,0 +1,20 @@
+Patient Note:
+
+Patient Name: Hendrik van der Meer
+Patient ID: 998877
+Age: 65
+Location: Netherlands
+
+Subjective: Hendrik van der Meer, a 65-year-old male, presents with progressive memory loss, confusion, and difficulty with coordination over the past three months. His family reports that Hendrik has been increasingly forgetful, often misplacing items and struggling to recall recent conversations. He has also developed clumsiness, with frequent falls and trouble with fine motor tasks such as buttoning his shirt. Over the past few weeks, his speech has become slurred, and he has had occasional muscle twitching. The family denies any recent head trauma or history of dementia in the family.
+
+Objective: Vital signs: BP 125/80 mmHg, HR 72 bpm, Temp 36.7°C, RR 16/min. Neurological examination reveals cognitive impairment, with Hendrik scoring 16/30 on the Mini-Mental State Examination (MMSE). He has noticeable ataxia with unsteady gait and difficulty performing coordinated movements. Myoclonic jerks are observed in his arms. Reflexes are brisk, and there is increased muscle tone. Cranial nerves are intact, and there are no signs of focal weakness. MRI of the brain shows diffuse cortical atrophy and hyperintensity in the basal ganglia. Electroencephalogram (EEG) demonstrates periodic sharp wave complexes. Cerebrospinal fluid (CSF) analysis is positive for 14-3-3 protein.
+
+Assessment: Hendrik is diagnosed with probable Creutzfeldt-Jakob Disease (CJD) based on his rapid cognitive decline, myoclonus, ataxia, characteristic EEG findings, and the presence of 14-3-3 protein in CSF. The MRI findings further support the diagnosis.
+
+Plan: Discuss the diagnosis and prognosis with Hendrik and his family, providing supportive care as the disease is rapidly progressive and fatal. Recommend referral to a neurologist for further management and palliative care options. Educate the family on the nature of CJD and coordinate with social services for home care assistance. Prescribe clonazepam for the management of myoclonus and consider low-dose antipsychotics for agitation if needed. Arrange follow-up care with regular neurologic assessments to monitor symptom progression and provide additional support for the family as the disease advances.
+
+
+
+
+
+

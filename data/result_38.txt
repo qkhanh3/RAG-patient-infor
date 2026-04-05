@@ -1,0 +1,21 @@
+
+Patient Note:
+
+Patient Name: Ricardo Sousa
+Patient ID: 778899
+Age: 65
+Location: Portugal
+
+Subjective: Ricardo Sousa, a 65-year-old male, presents with fever, chills, and difficulty urinating for the past three days. He reports lower abdominal pain and increased urinary frequency but has had difficulty passing urine. Ricardo has a history of multiple hospitalizations for recurrent urinary tract infections (UTIs) and recently underwent surgery for benign prostatic hyperplasia (BPH) three weeks ago. He mentions feeling weak and fatigued and is concerned about the return of his UTI symptoms. He denies any nausea, vomiting, or back pain.
+
+Objective: Vital signs: BP 130/85 mmHg, HR 95 bpm, Temp 38.7°C, RR 18/min. Physical examination reveals tenderness in the suprapubic region, but no costovertebral angle tenderness is noted. The urinary bladder is palpable on examination. Laboratory tests show elevated white blood cell count (WBC 15,000/μL), and urinalysis is positive for nitrites, leukocyte esterase, and white blood cells. Blood cultures and urine cultures reveal the presence of Carbapenem-Resistant Enterobacteriaceae (CRE). Renal function tests show mild elevation in creatinine (1.6 mg/dL), indicating some impairment.
+
+Assessment: Ricardo is diagnosed with a complicated urinary tract infection caused by Carbapenem-Resistant Enterobacteriaceae (CRE). His recent history of surgery and recurrent UTIs likely contributed to the development of this resistant infection.
+
+Plan: Admit Ricardo to the hospital for intravenous antibiotic therapy. Start treatment with a combination of colistin and meropenem/vaborbactam, based on culture sensitivities, to target the CRE infection. Ensure appropriate hydration and monitor renal function closely due to the potential nephrotoxicity of colistin. Insert a urinary catheter to relieve urinary retention and facilitate drainage. Consult with infectious disease specialists to optimize the antibiotic regimen and assess for any further complications. Educate Ricardo and his family on infection control measures to prevent the spread of CRE. Schedule follow-up blood and urine cultures to monitor response to treatment.
+
+
+
+
+
+

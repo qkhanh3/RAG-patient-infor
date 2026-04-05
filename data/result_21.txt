@@ -1,0 +1,14 @@
+
+Patient Note:
+
+Patient Name: Anita Gupta
+Patient ID: 889900
+Age: 32
+
+Subjective: Anita Gupta, a 32-year-old female, reports experiencing significant headaches for the past six weeks. These headaches are typically located at the temples and sometimes involve a pulsating sensation. She mentions that the pain is often triggered by bright lights or loud noises and lasts for several hours. Over-the-counter pain relievers provide minimal relief. Anita also reports accompanying nausea and occasional vomiting during these episodes. She denies any recent trauma or changes in vision.
+
+Objective: Vital signs: BP 120/80 mmHg, HR 72 bpm, Temp 36.5°C, RR 16/min. Physical examination is largely unremarkable except for mild photophobia noted during the exam. Neurological evaluation shows no focal deficits. Laboratory tests, including complete blood count and thyroid function tests, are within normal limits. A CT scan of the head, performed to rule out other causes, shows no abnormalities.
+
+Assessment: Anita is diagnosed with migraine without aura, based on the International Headache Society criteria, which include her symptoms of pulsating headache, photophobia, nausea, and lack of response to typical pain relievers.
+
+Plan: Prescribe sumatriptan 50 mg tablets, to be taken at the onset of headache symptoms, not exceeding two doses in 24 hours. Recommend lifestyle modifications, including regular sleep patterns, hydration, and stress management techniques such as yoga or meditation. Advise Anita to keep a headache diary to identify potential triggers. Schedule a follow-up appointment in 4 weeks to assess response to medication and headache frequency. If symptoms persist, consider preventive medication like a beta-blocker or calcium channel blocker.

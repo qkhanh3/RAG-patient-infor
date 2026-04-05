@@ -1,0 +1,14 @@
+
+Patient Note:
+
+Patient Name: Michael Stevens
+Patient ID: 998877
+Age: 52
+
+Subjective: Michael Stevens, a 52-year-old male, presents with complaints of persistent shortness of breath, wheezing, and a productive cough for the past month. He reports coughing up yellowish sputum daily and experiencing frequent chest tightness, especially at night and in the early morning. He has a history of smoking one pack per day for 25 years but quit 2 years ago. He denies any recent fever or weight loss. Michael has noticed his symptoms worsening after exposure to cold air or dust. He does not have a family history of asthma or other respiratory illnesses.
+
+Objective: Vital signs: BP 130/85 mmHg, HR 88 bpm, Temp 37.0°C, RR 20/min, O2 saturation 94% on room air. Physical examination reveals diffuse expiratory wheezes on lung auscultation, particularly in the lower lobes bilaterally. There are no crackles or signs of consolidation. No peripheral edema is noted. Spirometry shows an FEV1/FVC ratio of 60%, consistent with obstructive lung disease. Lab results, including a complete blood count and basic metabolic panel, are within normal limits.
+
+Assessment: Michael is diagnosed with chronic obstructive pulmonary disease (COPD), likely due to his long history of smoking. His symptoms of chronic cough, wheezing, and shortness of breath, along with the spirometry findings, support this diagnosis. There is no evidence of acute infection or exacerbation at this time.
+
+Plan: Initiate bronchodilator therapy with a long-acting beta-agonist (salmeterol 50 mcg twice daily) and a short-acting bronchodilator (albuterol inhaler as needed for acute relief). Advise smoking cessation support, even though Michael quit 2 years ago, to reinforce lifestyle changes. Recommend pulmonary rehabilitation to improve lung function and endurance. Schedule a follow-up visit in 4 weeks to assess treatment response and consider additional therapy if needed. Advise influenza and pneumococcal vaccinations to reduce the risk of respiratory infections.

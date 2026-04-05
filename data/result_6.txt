@@ -1,0 +1,21 @@
+Patient Note:
+
+Patient Name: Zhang Wei
+Patient ID: 654789
+Age: 45
+
+Subjective: Zhang Wei, a 45-year-old male, presents with complaints of yellowing of the skin and eyes for the past two weeks. He also reports dark urine, pale stools, and generalized fatigue. Zhang has had intermittent nausea and a decreased appetite but denies vomiting or significant abdominal pain. He notes that the jaundice developed gradually and is not associated with any recent travel. Zhang has no history of liver disease but admits to regular alcohol consumption. There is no family history of liver conditions.
+
+Objective: Vital signs: BP 120/78 mmHg, HR 80 bpm, Temp 37.1°C, RR 18/min. Physical examination reveals jaundice with visible yellowing of the sclera and skin. The abdomen is soft with mild tenderness in the right upper quadrant. There is no palpable hepatosplenomegaly or ascites. Laboratory results show elevated total bilirubin of 5.6 mg/dL (normal <1.2 mg/dL), direct bilirubin of 3.8 mg/dL, AST 120 U/L, ALT 140 U/L, and alkaline phosphatase 210 U/L. Hepatitis B and C serologies are negative. Abdominal ultrasound reveals mild liver enlargement but no signs of cirrhosis or gallstones.
+
+Assessment: Zhang Wei is diagnosed with obstructive jaundice, likely secondary to alcohol-related liver disease. The elevated bilirubin levels, abnormal liver enzymes, and ultrasound findings of liver enlargement support this diagnosis. His alcohol use is a probable contributing factor, though further investigation may be needed to rule out other causes of hepatic dysfunction.
+
+Plan: Recommend immediate cessation of alcohol consumption and provide a referral to a liver specialist for further evaluation. Order additional tests, including a liver biopsy, to assess the extent of liver damage and confirm the diagnosis.
+
+Medications:
+
+Ursodeoxycholic acid 300 mg twice daily to improve bile flow.
+Vitamin B complex daily and Folic acid 1 mg daily for nutritional support and to counteract potential deficiencies due to liver dysfunction.
+Thiamine 100 mg daily to prevent Wernicke’s encephalopathy, given the history of alcohol use.
+Acetaminophen 500 mg as needed for pain or discomfort, but limited to no more than 2,000 mg per day due to potential liver damage.
+Encourage hydration and a low-fat diet to support liver function. Schedule a follow-up in two weeks to monitor liver function tests and assess improvement in symptoms. Discuss long-term strategies for alcohol cessation and offer support or counseling as necessa

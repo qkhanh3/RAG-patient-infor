@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Maria Silva
+Patient ID: 445522
+Age: 38
+Location: Portugal
+
+Subjective: Maria Silva, a 38-year-old female, presents with complaints of a persistent itchy, scaly rash on her elbows, knees, and scalp for the past four months. She reports the rash is worsening and becoming more painful. Maria also mentions episodes of joint pain and stiffness, particularly in her fingers and knees. She denies any recent illness or infections. Her mother has a history of psoriasis, and Maria has had similar, milder symptoms in the past. No fever, weight loss, or recent medication changes are reported.
+
+Objective: Vital signs: BP 120/76 mmHg, HR 72 bpm, Temp 36.9°C, RR 16/min. Physical examination reveals erythematous plaques with silvery scales on the extensor surfaces of the elbows and knees, as well as on the scalp. The affected areas show no signs of infection. The joints in her fingers and knees are mildly swollen and tender on palpation, with no deformities. Lab results show mildly elevated ESR, and a skin biopsy confirms the diagnosis of psoriasis. Rheumatoid factor is negative.
+
+Assessment: Maria is diagnosed with psoriasis with associated psoriatic arthritis, based on her symptoms of scaly plaques, joint pain, family history, and skin biopsy results. The joint involvement suggests a mild form of psoriatic arthritis.
+
+Plan: Initiate treatment with topical corticosteroids (betamethasone 0.05%) to be applied twice daily to the affected skin areas. Prescribe NSAIDs (ibuprofen 400 mg as needed) to manage joint pain. Discuss lifestyle changes, including moisturizing the skin regularly and avoiding known triggers like stress and cold weather. Refer Maria to a dermatologist for long-term management of her psoriasis and to a rheumatologist for further evaluation of her joint symptoms. Schedule a follow-up in 6 weeks to assess the effectiveness of the treatment and adjust as needed.

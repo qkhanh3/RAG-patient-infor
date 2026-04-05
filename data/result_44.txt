@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Fatima Zohra
+Patient ID: 876543
+Age: 45
+Location: Algeria
+
+Subjective: Fatima Zohra, a 45-year-old female, presents with a 4-day history of fever, dry cough, and body aches. She reports fatigue, headaches, and shortness of breath when walking short distances. She has also experienced a loss of taste and smell. Fatima mentions that her husband recently tested positive for COVID-19, and she began feeling unwell shortly after. She denies chest pain or gastrointestinal symptoms. She has no significant medical history and is not on any medications. She is unvaccinated for COVID-19.
+
+Objective: Vital signs: BP 125/80 mmHg, HR 92 bpm, Temp 38.4°C, RR 22/min, O2 saturation 94% on room air. Physical examination reveals mild bilateral crackles on lung auscultation. There is no cyanosis, and her cardiovascular and abdominal exams are unremarkable. Nasopharyngeal swab PCR test for COVID-19 is positive. Chest X-ray is clear, with no signs of pneumonia. Laboratory results show mild lymphopenia, with a normal CRP and D-dimer levels.
+
+Assessment: Fatima is diagnosed with COVID-19, with mild to moderate symptoms, including fever, cough, and shortness of breath. She is stable, with no signs of pneumonia or respiratory compromise at this time.
+
+Plan: Fatima can manage her symptoms at home with self-isolation for 10 days from symptom onset. Recommend acetaminophen 500 mg as needed for fever and body aches. Encourage hydration and rest. Advise her to monitor for any worsening symptoms, particularly increased shortness of breath, chest pain, or oxygen saturation dropping below 94%. Schedule a telemedicine follow-up in 5 days to reassess her condition. Educate her on the importance of notifying close contacts and following isolation protocols to prevent the spread of COVID-19. Provide information on vaccination after recovery.

@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Le Thi Hoa
+Patient ID: 445566
+Age: 40
+Location: Vietnam
+
+Subjective: Le Thi Hoa, a 40-year-old female, presents with a 4-day history of fever, dry cough, and fatigue. She also reports shortness of breath when walking short distances and occasional headaches. Hoa states that she has experienced a loss of taste and smell over the past two days. She confirms that she was in contact with a neighbor who tested positive for COVID-19 last week. She has no significant past medical history and has not been vaccinated for COVID-19.
+
+Objective: Vital signs: BP 122/80 mmHg, HR 90 bpm, Temp 38.3°C, RR 22/min, O2 saturation 93% on room air. Physical examination reveals mild crackles in the lower lung fields bilaterally. No cyanosis or accessory muscle use is noted. Cardiovascular examination is unremarkable. Nasopharyngeal swab PCR test is positive for COVID-19. Chest X-ray shows mild bilateral infiltrates. Laboratory tests reveal mild lymphopenia, elevated C-reactive protein (CRP), and normal D-dimer levels.
+
+Assessment: Le Thi Hoa is diagnosed with COVID-19 with mild to moderate symptoms, including viral pneumonia as indicated by the chest X-ray. Her respiratory status is stable, but close monitoring is necessary due to the presence of lung involvement.
+
+Plan: Admit Hoa to the hospital for observation and supplemental oxygen therapy to maintain O2 saturation above 94%. Begin treatment with dexamethasone 6 mg daily for 10 days to reduce inflammation. Encourage hydration and rest. Monitor her respiratory status closely, and administer low-dose enoxaparin for thromboprophylaxis. Educate Hoa on the importance of isolation to prevent the spread of COVID-19. Schedule daily evaluations to monitor her progress and adjust treatment as needed. Consider remdesivir if symptoms worsen. Plan a follow-up chest X-ray in 7 days to assess the resolution of the pneumonia.

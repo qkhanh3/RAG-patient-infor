@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Nguyen Van Minh
+Patient ID: 112233
+Age: 32
+Location: Vietnam
+
+Subjective: Nguyen Van Minh, a 32-year-old male, presents with a 3-day history of fever, sore throat, and dry cough. He reports fatigue, muscle aches, and a mild headache. He mentions shortness of breath when walking upstairs but denies chest pain, nausea, or loss of taste and smell. Nguyen states that he had close contact with a coworker who recently tested positive for COVID-19. He has no significant past medical history and has not yet been vaccinated for COVID-19.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 88 bpm, Temp 38.1°C, RR 20/min, O2 saturation 95% on room air. Physical examination reveals mild pharyngeal erythema and bilateral mild crackles in the lower lung fields. No signs of cyanosis or respiratory distress. Cardiovascular examination is normal. Nasopharyngeal swab PCR test for COVID-19 is positive. Chest X-ray is normal, with no signs of pneumonia. Laboratory tests show mild lymphopenia, normal CRP, and normal D-dimer levels.
+
+Assessment: Nguyen is diagnosed with mild COVID-19, based on his positive PCR test, exposure history, and symptoms of fever, cough, and fatigue. His oxygen saturation and lung examination suggest no severe respiratory involvement at this time.
+
+Plan: Recommend self-isolation at home for 10 days from the onset of symptoms, with clearance to end isolation after 24 hours without fever and improving symptoms. Advise symptomatic treatment with acetaminophen 500 mg for fever and body aches as needed. Encourage rest and hydration. Instruct Nguyen to monitor his symptoms at home, including oxygen levels, and seek immediate medical care if his oxygen saturation drops below 94% or if he experiences worsening shortness of breath or chest pain. Schedule a telemedicine follow-up in 5 days to reassess his condition. Educate him on the importance of informing close contacts and following isolation protocols to prevent the spread of the virus. Discuss vaccination options following recovery.

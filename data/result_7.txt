@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Sarah Thompson
+Patient ID: 112233
+Age: 10
+
+Subjective: Sarah Thompson, a 10-year-old female, presents with a red, itchy rash around her mouth and nose for the past five days. The rash started as small red bumps and has since developed into honey-colored crusts. Sarah reports mild discomfort but denies any fever, pain, or systemic symptoms. Her parents mention that she has been scratching the area frequently. There is no history of similar skin conditions in the family, and Sarah has no known allergies or recent travel.
+
+Objective: Vital signs: Temp 36.7°C, HR 85 bpm, BP 110/70 mmHg, RR 18/min. Physical examination reveals erythematous patches with honey-colored crusting around the mouth and nose. No signs of deeper skin infection are present, and no lymphadenopathy is noted. The rest of her skin examination is normal. Lab tests are not performed as the clinical presentation is typical of impetigo.
+
+Assessment: Sarah is diagnosed with non-bullous impetigo, a superficial bacterial skin infection, likely caused by Staphylococcus aureus or Streptococcus pyogenes. The characteristic honey-colored crusting and the location of the lesions support this diagnosis.
+
+Plan: Start Sarah on topical mupirocin ointment 2% to be applied to the affected areas three times daily for 7 days. Advise her parents to gently clean the crusted areas with warm water before applying the ointment. Recommend keeping her nails short to reduce scratching and prevent spreading the infection. Educate the family on proper hygiene measures, including hand washing, to prevent transmission to others. Monitor for signs of worsening infection or systemic symptoms, and schedule a follow-up visit in 1 week if no improvement is seen.

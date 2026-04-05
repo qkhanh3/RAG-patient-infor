@@ -1,0 +1,22 @@
+Patient Note:
+
+Patient Name: Inês Moreira
+Patient ID: 556677
+Age: 47
+Location: Portugal
+
+Subjective: Inês Moreira, a 47-year-old female, presents with a painless lump in her right breast that she noticed approximately one month ago during self-examination. She reports no nipple discharge, skin changes, or recent trauma to the breast. Inês has no family history of breast cancer but expresses concern due to the lump's persistence. She denies any weight loss, fever, or changes in appetite. She is postmenopausal and has no history of hormone replacement therapy.
+
+Objective: Vital signs: BP 122/78 mmHg, HR 72 bpm, Temp 36.9°C, RR 16/min. On physical examination, a firm, non-tender, immobile mass approximately 2 cm in diameter is palpated in the upper outer quadrant of the right breast. No skin dimpling, nipple retraction, or erythema is noted. Axillary lymph nodes on the right side are palpable and slightly enlarged. The left breast appears normal on examination. A diagnostic mammogram and ultrasound of the right breast show a suspicious mass with irregular borders. A core needle biopsy confirms invasive ductal carcinoma.
+
+Assessment: Inês is diagnosed with stage II breast cancer, specifically invasive ductal carcinoma of the right breast, based on the clinical findings and biopsy results. The presence of palpable axillary lymph nodes suggests possible regional spread.
+
+Plan: Refer Inês to an oncologist for further evaluation and staging with imaging studies, including a PET scan to assess for metastasis. Discuss treatment options, including surgery (lumpectomy vs. mastectomy), followed by adjuvant therapy such as chemotherapy, radiation, and hormone therapy depending on receptor status (ER, PR, HER2).
+
+Medications:
+
+Tamoxifen 20 mg daily for hormone receptor-positive breast cancer, pending receptor status.
+Doxorubicin and cyclophosphamide (AC) as part of the chemotherapy regimen, based on staging and oncologist recommendations.
+Ondansetron 8 mg as needed for nausea during chemotherapy.
+Acetaminophen 500 mg as needed for pain management post-surgery or during chemotherapy.
+Additional Plan: Schedule a follow-up appointment with a breast surgeon to discuss the surgical plan and potential reconstructive options. Provide emotional support resources and refer Inês to a counselor or breast cancer support group. Educate her on the importance of timely treatment and follow-up care, including regular monitoring for recurrence and possible side effects of treatment.

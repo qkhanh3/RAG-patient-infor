@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Amina Patel
+Patient ID: 889900
+Age: 32
+
+Subjective: Amina Patel, a 32-year-old female, presents with recurrent, severe headaches over the past six months. She describes the headaches as pulsating, occurring mostly on one side of her head, and lasting for several hours. She notes that the headaches often come with sensitivity to light and sound, nausea, and occasionally vomiting. The headaches are debilitating, causing her to miss work. Amina reports some relief when resting in a dark, quiet room. She has no previous history of headaches like these and no significant family history of migraines.
+
+Objective: Vital signs: BP 120/80 mmHg, HR 68 bpm, Temp 36.6°C, RR 16/min. Neurological examination is normal with no focal deficits. Pupillary response and extraocular movements are intact. There is no neck stiffness or photophobia during the exam. The patient appears uncomfortable and anxious about her symptoms. No visual disturbances are noted.
+
+Assessment: Amina is diagnosed with migraines based on the clinical presentation and the characteristic features of her headaches. The episodic nature, associated symptoms, and her response to environmental factors align with typical migraine patterns.
+
+Plan: Initiate treatment with a triptan (sumatriptan 50 mg, to be taken at the onset of headache symptoms) for acute migraine attacks. Recommend starting a prophylactic medication, such as a beta-blocker (propranolol 40 mg daily), to reduce the frequency and severity of her migraines. Suggest lifestyle modifications, including maintaining a regular sleep schedule, hydration, and stress management techniques like yoga or meditation. Advise her to keep a headache diary to track triggers and response to treatment. Schedule a follow-up in 4 weeks to assess response to medications and discuss further preventive strategies. Provide patient education regarding the common triggers and management of migraines.

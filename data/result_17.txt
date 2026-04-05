@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Olivia Martinez
+Patient ID: 334455
+Age: 28
+
+Subjective: Olivia Martinez, a 28-year-old female, presents with a two-week history of fever, sore throat, and swollen glands. She reports feeling extremely fatigued, with difficulty completing daily tasks due to a lack of energy. Olivia has also noticed mild headaches and occasional nausea but denies any vomiting or abdominal pain. She is sexually active with one partner and has no significant medical history. She denies any recent travel or exposure to sick individuals.
+
+Objective: Vital signs: BP 118/74 mmHg, HR 90 bpm, Temp 38.2°C, RR 18/min. Physical examination reveals swollen and tender cervical lymph nodes bilaterally. The pharynx appears red with no exudates, and there is mild splenomegaly on abdominal examination. No skin rashes are noted, and lungs are clear on auscultation. Laboratory results show a positive monospot test, elevated white blood cell count with atypical lymphocytes, and mildly elevated liver enzymes.
+
+Assessment: Olivia is diagnosed with infectious mononucleosis, based on her symptoms of fever, sore throat, lymphadenopathy, and fatigue, along with positive monospot test results and splenomegaly.
+
+Plan: Advise Olivia to rest and avoid strenuous activities, particularly contact sports, due to the risk of spleen rupture. Recommend acetaminophen 500 mg every 6 hours as needed for fever and pain relief or ibuprofen 200-400 mg every 6 hours as needed for pain and inflammation. Encourage adequate hydration and a soft diet if throat pain worsens. Lidocaine throat spray can be used for symptomatic relief of throat pain. No antiviral therapy is necessary, as this is a self-limiting viral illness. Schedule a follow-up in two weeks to monitor her recovery and symptoms

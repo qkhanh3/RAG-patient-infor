@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Fatima Al-Harazi
+Patient ID: 998877
+Age: 35
+Location: Yemen
+
+Subjective: Fatima Al-Harazi, a 35-year-old female, presents with complaints of frequent heartburn, a burning sensation in her chest, and regurgitation of sour-tasting fluid, especially after meals, for the past three months. She reports that the symptoms worsen when lying down or after eating spicy and fatty foods. Fatima denies any weight loss, vomiting, or difficulty swallowing. She has a history of occasional headaches but no significant gastrointestinal disorders. There is no family history of gastrointestinal diseases.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 72 bpm, Temp 36.9°C, RR 16/min. Physical examination reveals no acute distress. The abdomen is soft and non-tender with no palpable masses or organomegaly. Bowel sounds are normal. No evidence of jaundice or anemia. An esophagogastroduodenoscopy (EGD) performed recently showed mild esophagitis. Laboratory tests, including complete blood count and liver function tests, are within normal limits.
+
+Assessment: Fatima is diagnosed with gastroesophageal reflux disease (GERD) based on her symptoms of heartburn, regurgitation, and the findings of esophagitis on EGD. Her symptoms are consistent with acid reflux, exacerbated by dietary triggers.
+
+Plan: Initiate a proton pump inhibitor (omeprazole 20 mg once daily) for 8 weeks to reduce gastric acid production and relieve symptoms. Advise lifestyle modifications, including elevating the head of the bed, avoiding large meals, and avoiding trigger foods like spicy and fatty foods, caffeine, and alcohol. Encourage weight management and smoking cessation, as these can exacerbate GERD. Schedule a follow-up in 4 weeks to assess symptom improvement and consider long-term management options if necessary. If symptoms persist, consider further diagnostic evaluation such as 24-hour pH monitoring.

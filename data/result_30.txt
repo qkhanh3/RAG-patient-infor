@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Yuki Nakamura
+Patient ID: 776655
+Age: 34
+Location: Japan
+
+Subjective: Yuki Nakamura, a 34-year-old female, presents with complaints of persistent fatigue, weight gain, and feeling cold even in warm environments for the past six months. She also reports dry skin, thinning hair, and occasional constipation. Yuki has no significant family history of thyroid disease but mentions a prior episode of anemia. She denies any recent travel, fever, or other systemic symptoms.
+
+Objective: Vital signs: BP 120/75 mmHg, HR 58 bpm, Temp 36.1°C, RR 14/min. Physical examination reveals dry skin and mild puffiness around the face. The thyroid gland is slightly enlarged but non-tender. Deep tendon reflexes are delayed, and her skin feels cool to the touch. Laboratory tests show elevated TSH (7.8 mU/L) and low free T4 (0.7 ng/dL), indicating primary hypothyroidism. CBC shows mild normocytic anemia, but liver and renal function tests are within normal limits.
+
+Assessment: Yuki is diagnosed with primary hypothyroidism, based on her symptoms of fatigue, weight gain, and cold intolerance, as well as elevated TSH and low free T4 levels. The physical exam findings of dry skin and delayed reflexes support the diagnosis.
+
+Plan: Initiate levothyroxine 50 mcg daily, with dose adjustments based on follow-up TSH levels. Educate Yuki about the need for regular monitoring of thyroid function tests and the gradual nature of symptom improvement. Advise her to take the medication on an empty stomach and avoid calcium or iron supplements within four hours of taking the thyroid hormone. Schedule a follow-up appointment in 6 weeks to assess TSH levels and clinical response. Encourage a balanced diet and regular physical activity to help manage symptoms.

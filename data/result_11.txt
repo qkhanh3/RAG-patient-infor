@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Sophia Martinez
+Patient ID: 334455
+Age: 28
+
+Subjective: Sophia Martinez, a 28-year-old female, presents with complaints of frequent headaches and dizziness for the past month. She describes the headaches as a throbbing pain located on one side of her head, often accompanied by sensitivity to light and sound. The headaches typically last several hours and are sometimes associated with nausea, but no vomiting. Sophia also reports feeling lightheaded, especially when standing up quickly. She denies any recent head trauma, visual disturbances, or other neurological symptoms. Her medical history is unremarkable, and she is not taking any medications regularly.
+
+Objective: Vital signs: BP 105/65 mmHg, HR 72 bpm, Temp 36.6°C, RR 16/min. Physical examination shows no acute distress. Neurological examination is normal, with no focal deficits. Fundoscopic exam is unremarkable, and no signs of papilledema are present. Lab results, including a complete blood count and basic metabolic panel, are within normal limits. Orthostatic vital signs show a mild drop in blood pressure upon standing, suggesting possible postural hypotension.
+
+Assessment: Sophia is diagnosed with migraine headaches, likely with associated postural hypotension, based on her description of recurrent unilateral headaches with light and sound sensitivity, along with dizziness upon standing. No signs of more serious conditions are present.
+
+Plan: Prescribe sumatriptan 50 mg to be taken at the onset of migraine symptoms. Recommend lifestyle modifications, including regular sleep patterns, hydration, and identifying potential migraine triggers. Encourage Sophia to increase salt and fluid intake to help manage her postural hypotension. Advise her to rise slowly from sitting or lying down to minimize dizziness. Schedule a follow-up visit in 4 weeks to assess the effectiveness of the treatment and adjust as necessary. Consider referral to a neurologist if the headaches worsen or become more frequent.

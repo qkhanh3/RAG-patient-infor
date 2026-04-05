@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Ahmed Bencheikh
+Patient ID: 987654
+Age: 60
+Location: Algeria
+
+Subjective: Ahmed Bencheikh, a 60-year-old male, presents with a 6-day history of fever, persistent dry cough, and increasing shortness of breath. He reports feeling extremely fatigued and experiencing body aches. Ahmed also mentions a loss of taste and smell. His wife tested positive for COVID-19 a week ago, and he started experiencing symptoms shortly after. He has a history of chronic obstructive pulmonary disease (COPD) and high blood pressure, both managed with medications. He has not been vaccinated for COVID-19.
+
+Objective: Vital signs: BP 140/90 mmHg, HR 98 bpm, Temp 38.7°C, RR 24/min, O2 saturation 89% on room air. Physical examination reveals bilateral crackles in the lower lung fields with decreased breath sounds. No cyanosis or peripheral edema is noted. Chest X-ray shows diffuse bilateral infiltrates consistent with viral pneumonia. Laboratory results show an elevated C-reactive protein (CRP), mild lymphopenia, and increased D-dimer levels. A nasopharyngeal swab PCR test is positive for COVID-19.
+
+Assessment: Ahmed is diagnosed with COVID-19 with moderate respiratory symptoms, including viral pneumonia, compounded by his pre-existing COPD and hypertension, placing him at high risk for severe disease.
+
+Plan: Admit Ahmed to the hospital for supplemental oxygen therapy, targeting an O2 saturation of 92-94%. Start dexamethasone 6 mg daily for 10 days. Consider remdesivir based on clinical progression. Continue his antihypertensive medications and monitor his blood pressure closely. Administer low-dose enoxaparin to reduce the risk of thromboembolic complications. Encourage rest and monitor for signs of worsening respiratory function, including increased oxygen needs or signs of respiratory distress. Schedule daily evaluations and provide Ahmed with education on the course of COVID-19 and the importance of isolation to prevent transmission.

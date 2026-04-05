@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Sarah Green
+Patient ID: 334455
+Age: 27
+
+Subjective: Sarah Green, a 27-year-old female, presents with complaints of recurrent headaches for the past two months. She describes the headaches as throbbing and usually localized to one side of her head. The headaches are often accompanied by nausea, sensitivity to light (photophobia), and sound (phonophobia). Sarah reports that the episodes last anywhere from 4 to 12 hours and occur 2-3 times per week. She has tried over-the-counter pain medications with limited relief. She denies any recent head trauma, vision changes, or neurological symptoms. There is a family history of migraines, as her mother also experiences similar headaches.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 74 bpm, Temp 36.6°C, RR 16/min. Neurological examination is unremarkable, with normal motor strength, reflexes, and sensation. There is no neck stiffness or signs of meningeal irritation. Fundoscopic examination shows no papilledema. The rest of the physical exam is within normal limits. No abnormalities were found on routine blood work or imaging.
+
+Assessment: Sarah is diagnosed with migraines without aura, based on her recurrent, unilateral throbbing headaches associated with nausea, photophobia, and phonophobia. The absence of neurological deficits and normal physical exam findings support this diagnosis.
+
+Plan: Prescribe sumatriptan 50 mg at the onset of headache symptoms. Recommend keeping a headache diary to track triggers and frequency. Advise avoiding known triggers such as stress, certain foods, and sleep disturbances. Encourage regular sleep, hydration, and stress management techniques like yoga or meditation. Consider starting a daily prophylactic medication, such as propranolol, if the headaches persist or worsen. Follow-up in 4 weeks to assess the effectiveness of treatment and adjust the plan if necessary.

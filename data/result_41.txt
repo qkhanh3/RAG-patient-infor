@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Lucia Martinez
+Patient ID: 667788
+Age: 38
+Location: Spain
+
+Subjective: Lucia Martinez, a 38-year-old female, presents with fever, cough, and fatigue that began four days ago. She reports experiencing body aches, loss of taste and smell, and a sore throat. Lucia also mentions mild shortness of breath with exertion but denies chest pain or confusion. She has no significant past medical history but is worried as she recently came into contact with a co-worker who tested positive for COVID-19. Lucia has not yet been vaccinated for COVID-19.
+
+Objective: Vital signs: BP 120/76 mmHg, HR 88 bpm, Temp 38.2°C, RR 20/min, O2 saturation 95% on room air. Physical examination reveals mild pharyngeal erythema and slight wheezing on lung auscultation. No cyanosis or use of accessory muscles for breathing is noted. Cardiovascular examination is normal. Nasopharyngeal swab PCR test for SARS-CoV-2 returns positive. Chest X-ray is unremarkable, with no signs of pneumonia. Blood work shows a normal white blood cell count and slightly elevated C-reactive protein (CRP).
+
+Assessment: Lucia is diagnosed with COVID-19, based on her positive SARS-CoV-2 PCR test, recent exposure, and symptoms of fever, cough, fatigue, and loss of taste and smell. Her symptoms are mild, and her oxygen saturation remains within normal limits.
+
+Plan: Advise Lucia to self-isolate at home for at least 10 days from symptom onset, with clearance to end isolation after 24 hours without fever and improvement in symptoms. Recommend symptomatic treatment with acetaminophen 500 mg as needed for fever and pain. Encourage hydration and rest. Monitor for any worsening of symptoms, especially difficulty breathing or persistent fever. Instruct her to check her oxygen saturation at home using a pulse oximeter. Schedule a telemedicine follow-up in 5 days to assess her recovery. Educate her on the importance of notifying close contacts and consider vaccination after recovery.

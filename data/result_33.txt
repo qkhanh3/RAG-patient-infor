@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: João Ferreira
+Patient ID: 992211
+Age: 55
+Location: Portugal
+
+Subjective: João Ferreira, a 55-year-old male, presents with complaints of frequent heartburn, upper abdominal pain, and bloating after meals over the past three months. He reports that the discomfort is worse after eating spicy or fatty foods and is relieved temporarily by over-the-counter antacids. João denies any weight loss, vomiting, or changes in bowel habits but notes occasional nausea. He also reports waking up at night due to a burning sensation in his chest. João has a history of hypertension and is currently taking medication for it.
+
+Objective: Vital signs: BP 138/82 mmHg, HR 78 bpm, Temp 36.7°C, RR 18/min. Physical examination reveals mild tenderness in the epigastric region upon palpation, with no signs of guarding or rebound tenderness. Bowel sounds are normal, and there is no palpable organomegaly. Laboratory results, including complete blood count and liver function tests, are normal. Upper gastrointestinal endoscopy shows signs of mild erosive gastritis and a small duodenal ulcer.
+
+Assessment: João is diagnosed with peptic ulcer disease (PUD) based on his symptoms of heartburn, epigastric pain, and the endoscopic findings of a duodenal ulcer. His history of frequent antacid use and diet likely contributed to the condition.
+
+Plan: Start João on a proton pump inhibitor (omeprazole 20 mg twice daily) for 8 weeks to promote ulcer healing and reduce acid production. Recommend lifestyle modifications, including avoiding trigger foods such as spicy, acidic, and fatty foods. Advise him to avoid alcohol and smoking, and to elevate the head of the bed to reduce nighttime symptoms. Schedule a follow-up endoscopy in 8 weeks to evaluate healing of the ulcer. Instruct João to return to the clinic earlier if he experiences worsening symptoms or signs of complications such as vomiting or gastrointestinal bleeding. Encourage adherence to hypertension medications and regular monitoring of blood pressure.

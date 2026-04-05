@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Javier Rodriguez
+Patient ID: 123456
+Age: 52
+Location: Spain
+
+Subjective: Javier Rodriguez, a 52-year-old male, presents with a 5-day history of fever, dry cough, and fatigue. He reports a gradual onset of shortness of breath, especially when walking short distances or climbing stairs. Javier also mentions a loss of taste and smell. He denies chest pain, nausea, or vomiting. He has a history of hypertension and type 2 diabetes, both of which are managed with medication. Javier states that he has not been vaccinated for COVID-19 and was recently in close contact with a friend who tested positive.
+
+Objective: Vital signs: BP 135/85 mmHg, HR 96 bpm, Temp 38.4°C, RR 22/min, O2 saturation 92% on room air. Physical examination reveals bilateral decreased breath sounds with crackles at the lung bases. No cyanosis or use of accessory muscles for breathing is noted. Cardiovascular exam is unremarkable. COVID-19 PCR test from a nasopharyngeal swab is positive. Chest X-ray shows mild bilateral infiltrates suggestive of viral pneumonia. Laboratory results reveal an elevated C-reactive protein (CRP), normal white blood cell count, and mildly elevated D-dimer levels.
+
+Assessment: Javier is diagnosed with COVID-19 with mild to moderate symptoms, including shortness of breath and viral pneumonia. His pre-existing conditions of hypertension and diabetes place him at higher risk for complications.
+
+Plan: Admit Javier to the hospital for close monitoring of his respiratory status and administer supplemental oxygen to maintain an O2 saturation above 94%. Begin treatment with dexamethasone 6 mg daily for 10 days and continue monitoring his blood glucose levels due to diabetes. Administer low-dose enoxaparin to reduce the risk of thromboembolic events. Encourage rest and hydration. Monitor for any worsening respiratory symptoms, and consider remdesivir based on clinical progression. Schedule daily follow-up assessments and monitor laboratory values closely. Educate Javier and his family on the expected course of COVID-19 and reinforce isolation protocols to prevent spread.

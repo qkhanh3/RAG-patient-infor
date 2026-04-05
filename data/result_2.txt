@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Li Wei
+Patient ID: 987654
+Age: 29
+Location: China
+
+Subjective: Li Wei, a 29-year-old male, presents with complaints of high fever, severe headache, and joint pain for the past four days. He reports experiencing pain behind his eyes (retro-orbital pain) and significant muscle pain ("bone-breaking" feeling). Li also notes a recent trip to a tropical region where dengue outbreaks were reported. He has had intermittent nausea and fatigue but denies any vomiting or diarrhea. He reports no history of chronic medical conditions. No signs of bleeding or bruising at this time.
+
+Objective: Vital signs: Temp 39.5°C, HR 95 bpm, BP 110/70 mmHg, RR 20/min. Physical examination reveals a flushed face with mild dehydration. There is tenderness to palpation in the muscles and joints. A diffuse maculopapular rash is noted on the trunk. No petechiae or bleeding gums are observed. Laboratory tests show thrombocytopenia with a platelet count of 85,000/mm³, mildly elevated liver enzymes (AST and ALT), and a positive Dengue NS1 antigen test. Hematocrit is elevated, indicating hemoconcentration.
+
+Assessment: Li Wei is diagnosed with dengue fever, based on his travel history, high fever, retro-orbital pain, muscle and joint pain, and the positive Dengue NS1 antigen test. His low platelet count and mild liver enzyme elevation are consistent with the disease's early phase, but there are no signs of severe dengue (hemorrhage or shock) at this time.
+
+Plan: Initiate supportive care with oral rehydration solutions to prevent dehydration. Recommend acetaminophen 500 mg every 6 hours for fever and pain management, while avoiding NSAIDs due to the risk of bleeding. Monitor platelet count daily and assess for any signs of bleeding or progression to severe dengue. Advise rest and avoidance of strenuous physical activity. Educate the patient about warning signs of severe dengue, including persistent vomiting, abdominal pain, and mucosal bleeding. Schedule a follow-up in 48 hours or sooner if symptoms worsen.

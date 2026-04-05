@@ -1,0 +1,15 @@
+
+Patient Note:
+
+Patient Name: Maria Santos
+Patient ID: 223344
+Age: 28
+Location: Philippines
+
+Subjective: Maria Santos, a 28-year-old female, presents with redness, itching, and a gritty sensation in both eyes for the past two days. She also reports watery discharge from her eyes and mild sensitivity to light. Maria mentions waking up with her eyelids stuck together due to crusting. She denies any pain or vision changes but states that her eyes feel irritated. Maria has not been in contact with anyone with similar symptoms and denies recent travel. She works in an air-conditioned office, which she believes may be worsening her symptoms.
+
+Objective: Vital signs: BP 120/78 mmHg, HR 80 bpm, Temp 36.8°C, RR 16/min. On examination, Maria’s eyes appear red and irritated, with visible conjunctival injection in both eyes. There is mild, clear discharge noted. No corneal involvement or foreign bodies are seen. Her pupils are equal and reactive to light, and her visual acuity remains intact. There is no eyelid swelling or significant photophobia. No preauricular lymphadenopathy is noted. A fluorescein stain test is negative for corneal abrasions or ulcers.
+
+Assessment: Maria is diagnosed with viral conjunctivitis based on her symptoms of eye redness, watery discharge, and irritation without vision changes or pain. The absence of purulent discharge suggests a viral etiology.
+
+Plan: Reassure Maria that viral conjunctivitis is typically self-limiting and should resolve in 1-2 weeks. Recommend using artificial tears to relieve eye irritation and cold compresses for comfort. Advise her to avoid touching her eyes and to wash her hands frequently to prevent spreading the infection. Recommend avoiding contact lens use until symptoms resolve. Schedule a follow-up appointment in one week if symptoms worsen or do not improve. Educate Maria on the importance of maintaining good hygiene and avoid sharing personal items like towels.

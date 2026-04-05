@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Alice Green
+Patient ID: 334455
+Age: 28
+
+Subjective: Alice Green, a 28-year-old female, presents with complaints of frequent headaches and blurred vision over the past month. She describes the headaches as throbbing, primarily affecting the front of her head, and often associated with nausea and sensitivity to light. The episodes occur 2-3 times per week and last for several hours. Over-the-counter pain medications provide minimal relief. Alice denies any recent head trauma or other neurological symptoms. She has no significant medical history but notes that her mother also suffers from migraines.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 70 bpm, Temp 36.9°C, RR 16/min. Neurological examination reveals no focal deficits. Cranial nerves are intact, and motor and sensory examinations are normal. No signs of papilledema or abnormalities on fundoscopic examination. Laboratory tests, including a complete blood count and electrolyte panel, are within normal limits. A head CT scan shows no acute intracranial pathology.
+
+Assessment: Alice is diagnosed with migraines, based on her recurrent, throbbing headaches, associated symptoms (nausea and photophobia), and a family history of migraines. Her neurological exam and imaging are unremarkable, ruling out other causes.
+
+Plan: Initiate treatment with sumatriptan 50 mg at the onset of headache, and recommend a preventive medication, such as propranolol 20 mg twice daily, if her headaches become more frequent. Advise keeping a headache diary to track triggers and response to treatment. Encourage lifestyle modifications, including regular sleep, hydration, and avoidance of known migraine triggers (e.g., caffeine, stress). Schedule a follow-up in 6 weeks to assess the effectiveness of the treatment and make any necessary adjustments. Provide education on managing migraine symptoms and when to seek immediate care for severe or unusual headaches.

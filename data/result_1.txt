@@ -1,0 +1,15 @@
+
+Patient Note:
+
+Patient Name: Elena Kuznetsova
+Patient ID: 345672
+Age: 62
+Location: Russia
+
+Subjective: Elena Kuznetsova, a 62-year-old female, presents with complaints of chronic pain and stiffness in her knees and hands for the past three years. She reports that the pain is worse with movement and in the evening but improves with rest. She has noticed increased difficulty with everyday tasks such as walking, climbing stairs, and gripping objects. Elena denies any recent injury to the affected joints but mentions mild swelling and occasional crepitus. She has been using over-the-counter pain medications with limited relief. No history of fever, weight loss, or significant trauma is reported.
+
+Objective: Vital signs: BP 128/78 mmHg, HR 72 bpm, Temp 36.5°C, RR 18/min. Physical examination reveals bony enlargement of the distal interphalangeal joints (Heberden’s nodes) and proximal interphalangeal joints (Bouchard’s nodes) in both hands. There is tenderness to palpation and crepitus in both knees with limited range of motion. Mild swelling is noted in the knee joints, but no erythema or warmth. X-rays of the knees show joint space narrowing, osteophyte formation, and subchondral sclerosis. Lab tests, including inflammatory markers (ESR, CRP), are within normal limits.
+
+Assessment: Elena is diagnosed with osteoarthritis, primarily affecting the knees and hands. Her symptoms of joint pain, stiffness, and limited mobility, along with the radiographic findings, are consistent with degenerative joint disease.
+
+Plan: Recommend acetaminophen 1g up to four times daily as the first-line pain management option. Consider NSAIDs (ibuprofen 400 mg as needed) for flare-ups if acetaminophen is insufficient, provided there are no gastrointestinal contraindications. Encourage weight management and low-impact physical therapy to improve joint mobility and strength. Discuss the use of joint-supporting supplements such as glucosamine and chondroitin. Schedule a follow-up in 6 weeks to assess symptom control and evaluate the need for additional interventions, such as intra-articular corticosteroid injections if pain persists. Recommend avoiding prolonged standing and high-impact activities to minimize joint stress.

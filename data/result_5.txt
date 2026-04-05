@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Emily Johnson
+Patient ID: 456321
+Age: 19
+
+Subjective: Emily Johnson, a 19-year-old female, presents with concerns about acne on her face, chest, and back. She reports having breakouts for the past year, which have worsened over the past three months. The lesions are painful and often leave dark spots after healing. Emily has tried over-the-counter topical treatments, but they have not been effective. She mentions feeling self-conscious about the appearance of her skin. She denies any other systemic symptoms such as fever, weight loss, or changes in menstrual cycles.
+
+Objective: Vital signs: BP 110/70 mmHg, HR 72 bpm, Temp 36.8°C, RR 16/min. Physical examination reveals numerous inflammatory papules, pustules, and comedones on the face, chest, and upper back. Some post-inflammatory hyperpigmentation is noted, but no cysts or nodules are present. There are no signs of secondary bacterial infection. Skin otherwise appears normal, and no other abnormalities are noted.
+
+Assessment: Emily is diagnosed with moderate acne vulgaris, characterized by inflammatory papules, pustules, and comedones. Her symptoms and clinical presentation are consistent with this diagnosis.
+
+Plan: Initiate treatment with a combination of topical benzoyl peroxide 5% gel and a topical retinoid (adapalene 0.1% gel) to be applied at night. Prescribe an oral antibiotic (doxycycline 100 mg daily) for 8 weeks to reduce inflammation. Advise gentle skin care with a mild, non-comedogenic cleanser and moisturizer. Instruct Emily to avoid picking or squeezing the lesions to prevent scarring and hyperpigmentation. Schedule a follow-up appointment in 6 weeks to assess treatment response and adjust the regimen if needed. Discuss the possibility of oral contraceptive therapy if hormonal factors are contributing to her acne.

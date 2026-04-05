@@ -1,0 +1,23 @@
+
+Patient Note:
+
+Patient Name: Johann Müller
+Patient ID: AT98234712
+Age: 67
+Location: Austria
+
+Subjective: Johann Müller, a 67-year-old male, presents with a persistent cough that has worsened over the past three months. He reports unintentional weight loss of 7 kg during this time and complains of increasing fatigue. Johann has noticed occasional blood-tinged sputum and mild chest pain, especially when coughing or taking deep breaths. He also describes shortness of breath during mild exertion. He has a 40-year history of smoking (1 pack per day) but quit five years ago. He denies fever, recent infections, or any known exposure to tuberculosis.
+
+Objective: Vital signs: BP 130/85 mmHg, HR 86 bpm, Temp 37.0°C, RR 20/min, O2 saturation 92% on room air. Physical examination reveals diminished breath sounds in the right lung base with dullness to percussion. There are no wheezes or crackles. No palpable lymphadenopathy is noted, and cardiovascular examination is normal. Chest X-ray shows a mass in the right lower lobe, with associated pleural effusion. A CT scan of the chest confirms a 5 cm mass in the right lower lobe with mediastinal lymphadenopathy. A bronchoscopy with biopsy reveals non-small cell lung carcinoma (NSCLC).
+
+Assessment: Johann is diagnosed with non-small cell lung cancer (NSCLC), based on his symptoms of persistent cough, weight loss, and the imaging findings of a lung mass with biopsy confirmation of malignancy.
+
+Plan: Refer Johann to an oncologist for staging and treatment planning, including a PET scan and brain MRI to evaluate for metastasis. Begin discussing treatment options, including surgery, chemotherapy, radiation therapy, and targeted therapy depending on the tumor's molecular profile. Consider thoracentesis to manage the pleural effusion and improve his breathing.
+
+Medications:
+
+Morphine 10 mg as needed for severe pain management.
+Albuterol inhaler for relief of shortness of breath.
+Cisplatin and pemetrexed as a potential chemotherapy regimen, depending on the staging and oncologist’s recommendations.
+Ondansetron 8 mg as needed for nausea during chemotherapy.
+Additional Plan: Provide smoking cessation support and counseling to prevent further lung damage. Arrange follow-up appointments to discuss the results of staging and to plan for possible surgical resection or systemic therapy. Educate Johann on the importance of maintaining adequate nutrition and hydration during treatment.

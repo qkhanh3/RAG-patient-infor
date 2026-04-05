@@ -1,0 +1,15 @@
+
+Patient Note:
+
+Patient Name: Ana Costa
+Patient ID: 334455
+Age: 29
+Location: Portugal
+
+Subjective: Ana Costa, a 29-year-old female, presents with complaints of a fishy-smelling vaginal discharge that has been ongoing for the past week. She reports that the discharge is thin and grayish-white in color. Ana denies any itching, burning, or pain during urination. She is sexually active and mentions having had a new sexual partner in the past two months. She denies fever, abdominal pain, or any recent changes in her menstrual cycle. Ana has no significant past medical history and is not currently using any medications.
+
+Objective: Vital signs: BP 118/76 mmHg, HR 70 bpm, Temp 36.8°C, RR 16/min. Pelvic examination reveals thin, homogenous, grayish vaginal discharge without signs of inflammation or lesions. No erythema or tenderness is noted on examination of the external genitalia. A whiff test produces a fishy odor, and wet mount microscopy shows clue cells, confirming bacterial vaginosis. The pH of the vaginal fluid is elevated at 5.5. No signs of other infections are observed.
+
+Assessment: Ana is diagnosed with bacterial vaginosis, based on her symptoms of vaginal discharge, the positive whiff test, and the presence of clue cells on microscopy. There are no signs of co-infection or other complications.
+
+Plan: Start Ana on metronidazole 500 mg orally twice daily for 7 days. Advise her to avoid alcohol during and for 48 hours after completing the medication, as metronidazole can interact with alcohol. Educate her on the nature of bacterial vaginosis, emphasizing that it is not a sexually transmitted infection but can be associated with sexual activity. Encourage the use of condoms to help prevent recurrence and advise against douching. Schedule a follow-up appointment in two weeks if symptoms persist or recur. Recommend a repeat visit in 3 months to monitor for any recurrence and provide further sexual health counseling if needed.

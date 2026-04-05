@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Maria Hernandez
+Patient ID: 123456
+Age: 35
+
+Subjective: Maria Hernandez, a 35-year-old female, presents with complaints of a high fever, severe headache, and joint pain for the past three days. She also reports retro-orbital pain, fatigue, and nausea. She recently returned from a trip to a tropical region known to have recent dengue outbreaks. Maria has also noticed a rash appearing on her chest and upper arms. She denies any bleeding, vomiting, or abdominal pain. Her medical history is unremarkable, and she is not on any medications.
+
+Objective: Vital signs: Temp 39.0°C, HR 98 bpm, BP 108/72 mmHg, RR 18/min. Physical examination reveals a maculopapular rash over the chest and upper arms. There is tenderness to palpation in the muscles and joints, particularly in the legs and arms. No petechiae, gum bleeding, or hepatomegaly is noted. Lab results show thrombocytopenia with a platelet count of 90,000/mm³, mildly elevated liver enzymes (AST 75 U/L, ALT 68 U/L), and a positive Dengue IgM antibody test. Hematocrit is slightly elevated at 44%, indicating mild hemoconcentration.
+
+Assessment: Maria is diagnosed with dengue fever based on her travel history, high fever, rash, joint pain, and positive serology for dengue. Her lab findings of thrombocytopenia and elevated liver enzymes further support the diagnosis. No signs of severe dengue or bleeding are present at this time.
+
+Plan: Initiate supportive care with oral rehydration therapy and recommend acetaminophen 500 mg every 6 hours for fever and pain control. Avoid NSAIDs and aspirin due to the risk of bleeding. Instruct the patient to monitor for warning signs of severe dengue, such as persistent vomiting, abdominal pain, or bleeding. Schedule daily follow-up visits for platelet count monitoring and clinical evaluation. Educate the patient on the importance of rest and maintaining hydration. Follow-up in 48 hours or earlier if symptoms worsen.

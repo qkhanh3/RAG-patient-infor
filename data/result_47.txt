@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Tran Van Phuc
+Patient ID: 778899
+Age: 50
+Location: Vietnam
+
+Subjective: Tran Van Phuc, a 50-year-old male, presents with a 3-day history of high fever, diarrhea, and severe muscle aches. He reports experiencing generalized body weakness and difficulty staying hydrated due to frequent loose stools. Phuc also complains of mild shortness of breath and occasional dizziness. He denies any chest pain or cough. He mentions that a family member recently tested positive for COVID-19, and he has not been vaccinated. Phuc is concerned about worsening fatigue and dehydration.
+
+Objective: Vital signs: BP 110/70 mmHg, HR 102 bpm, Temp 39.1°C, RR 20/min, O2 saturation 95% on room air. Physical examination reveals a dehydrated appearance with dry mucous membranes and decreased skin turgor. The lungs are clear on auscultation, with no crackles or wheezing. Abdomen is soft with mild tenderness but no guarding or rebound tenderness. Nasopharyngeal swab PCR for COVID-19 is positive. Blood work shows mild lymphopenia, elevated C-reactive protein (CRP), and slightly elevated blood urea nitrogen (BUN), indicating dehydration.
+
+Assessment: Tran Van Phuc is diagnosed with COVID-19 presenting with gastrointestinal symptoms, including diarrhea and dehydration. His positive PCR test, fever, and generalized weakness are consistent with COVID-19 infection, and his dehydration requires close management.
+
+Plan: Begin intravenous (IV) fluid therapy with normal saline to address dehydration. Administer antipyretics (acetaminophen 500 mg) for fever and provide oral rehydration solutions to maintain hydration. Monitor his fluid and electrolyte balance closely. Encourage Phuc to rest and stay hydrated. Advise self-isolation at home after discharge, with instructions to return if symptoms worsen, especially respiratory difficulty or increased dizziness. Schedule a follow-up in 5 days via telemedicine to reassess symptoms and hydration status. Educate him on the importance of isolation to prevent spread and recommend vaccination post-recovery.

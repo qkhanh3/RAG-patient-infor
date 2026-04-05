@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: Lukas Schmid
+Patient ID: AT45832190
+Age: 74
+Location: Austria
+
+Subjective: Lukas Schmid, a 74-year-old male, presents with chest tightness, palpitations, and shortness of breath that started 6 hours ago. He also reports a sudden onset of weakness in his left arm and difficulty with coordination. Lukas felt dizzy earlier in the day and had a brief episode of blurred vision. His medical history includes coronary artery disease and hypertension, and he has undergone a coronary artery bypass graft (CABG) in the past. He denies nausea, vomiting, or headache but is concerned about the weakness and difficulty moving his left arm.
+
+Objective: Vital signs: BP 155/90 mmHg, HR 110 bpm (irregular), Temp 37.1°C, RR 22/min, O2 saturation 93% on room air. On physical examination, there is left-sided upper extremity weakness (3/5 strength), with intact sensation. Cardiac auscultation reveals an irregular rhythm consistent with atrial fibrillation. No murmurs are present. Lung sounds are clear bilaterally. A CT scan of the brain reveals a small ischemic infarct in the right middle cerebral artery (MCA) territory. An ECG confirms atrial fibrillation with a rapid ventricular response. Troponin levels are elevated, indicating myocardial injury.
+
+Assessment: Lukas is diagnosed with an acute ischemic stroke, secondary to atrial fibrillation, as well as a non-ST elevation myocardial infarction (NSTEMI). His left-sided weakness, along with the ischemic infarct seen on CT, confirms the stroke diagnosis, while his elevated troponin and chest symptoms suggest concurrent myocardial injury.
+
+Plan: Immediate anticoagulation therapy with intravenous heparin to manage both the stroke and atrial fibrillation. Administer a beta-blocker (metoprolol 50 mg orally, twice daily) to control heart rate and reduce myocardial oxygen demand. Initiate dual antiplatelet therapy with aspirin 81 mg daily and clopidogrel 75 mg daily for stroke prevention and myocardial protection. Consider coronary angiography to assess for ongoing ischemia related to his NSTEMI. Prescribe atorvastatin 40 mg daily for cholesterol management. Administer enoxaparin (40 mg subcutaneously) for thromboembolism prophylaxis. Administer nitroglycerin 0.4 mg sublingually as needed for chest pain. Arrange for physical and occupational therapy to address left-sided weakness. Monitor in the coronary care unit (CCU) for close observation and manage his risk factors, including adjusting antihypertensive medications. Follow-up brain imaging in 24 hours to assess stroke progression.

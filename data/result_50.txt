@@ -1,0 +1,22 @@
+Patient Note:
+
+Patient Name: Marieke Jansen
+Patient ID: 776655
+Age: 58
+Location: Netherlands
+
+Subjective: Marieke Jansen, a 58-year-old female, presents with rapidly worsening confusion, mood changes, and memory loss over the past two months. Her family reports that Marieke initially became increasingly withdrawn, with frequent mood swings, irritability, and difficulty concentrating. In the last few weeks, she has developed disorientation and has had trouble recognizing familiar faces. Her speech has become slow and fragmented, and she has experienced visual disturbances, occasionally seeing objects that aren’t there. Marieke has no history of psychiatric illness or recent head trauma.
+
+Objective: Vital signs: BP 130/85 mmHg, HR 76 bpm, Temp 36.8°C, RR 16/min. On neurological examination, Marieke is disoriented to time and place, with marked cognitive impairment, scoring 12/30 on the Mini-Mental State Examination (MMSE). She exhibits occasional myoclonic jerks in her upper extremities. Gait is unsteady, and her balance is impaired. Reflexes are exaggerated bilaterally, and muscle tone is increased. Cranial nerves are intact. MRI of the brain shows hyperintensity in the cortical and subcortical regions. An electroencephalogram (EEG) reveals periodic sharp wave discharges. Cerebrospinal fluid (CSF) analysis is positive for 14-3-3 protein.
+
+Assessment: Marieke is diagnosed with probable Creutzfeldt-Jakob Disease (CJD) based on her progressive cognitive decline, mood disturbances, visual hallucinations, myoclonus, MRI findings, and positive 14-3-3 protein in the CSF. The EEG findings further support the diagnosis.
+
+Plan: Provide supportive care and initiate discussions with Marieke’s family regarding the progressive and fatal nature of CJD. Refer to a neurologist for continued management and to palliative care services for symptom management and emotional support.
+
+Medications:
+
+Clonazepam 0.5 mg twice daily to help manage the myoclonus.
+Olanzapine 2.5 mg at bedtime for management of visual disturbances and hallucinations.
+Acetaminophen 500 mg as needed for any discomfort or mild pain.
+Consider melatonin 3 mg at bedtime for sleep disturbances.
+Additional Plan: Arrange regular follow-up visits to monitor the progression of symptoms and provide continued support for both Marieke and her family. Coordinate with social services for home care support and assist with planning end-of-life care. Provide resources for palliative and emotional support, and discuss the progression of CJD to prepare the family for the advanced stages of the disease.

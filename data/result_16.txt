@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: Anna Rodriguez
+Patient ID: 889900
+Age: 28
+
+Subjective: Anna Rodriguez, a 28-year-old female, presents with complaints of severe headaches that have been occurring on and off for the past two months. She describes the headaches as throbbing in nature, often localized to one side of her head, and associated with sensitivity to light and nausea. The headaches usually last between 4-8 hours and are relieved by rest in a dark room. Anna denies any recent head trauma, fever, or visual disturbances. She has no significant medical history and no family history of migraines or neurological conditions.
+
+Objective: Vital signs: BP 118/72 mmHg, HR 75 bpm, Temp 36.6°C, RR 16/min. Neurological examination is unremarkable with no focal deficits. Cranial nerves are intact, and motor and sensory exams are normal. No signs of papilledema or other abnormal findings on fundoscopic exam. Routine blood work, including a complete blood count and metabolic panel, are within normal limits.
+
+Assessment: Anna is diagnosed with migraines without aura, based on her clinical presentation of recurrent unilateral, throbbing headaches associated with photophobia and nausea. The absence of neurological deficits or other concerning features makes the diagnosis of primary migraine more likely.
+
+Plan: Prescribe sumatriptan 50 mg to be taken at the onset of migraine symptoms. Advise the patient to keep a headache diary to track potential triggers, such as stress, sleep patterns, and certain foods. Recommend avoiding known triggers and maintaining a regular sleep schedule. Instruct Anna to rest in a quiet, dark room during migraine episodes. Schedule a follow-up visit in 4 weeks to assess the effectiveness of the medication and consider preventive therapy if needed.

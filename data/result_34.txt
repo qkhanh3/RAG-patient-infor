@@ -1,0 +1,22 @@
+Patient Note:
+
+Patient Name: Sofia Marques
+Patient ID: 773311
+Age: 10
+Location: Portugal
+
+Subjective: Sofia Marques, a 10-year-old female, presents with sudden onset weakness in her right arm and leg, which started two days ago. Her parents report that she was feeling well until the weakness appeared abruptly. Sofia also experienced neck pain and mild fever a few days prior to the weakness. She has no history of trauma, recent illness, or previous neurological conditions. Her parents are concerned because she is having difficulty holding objects and walking. Sofia denies any sensory loss, difficulty breathing, or changes in vision.
+
+Objective: Vital signs: BP 110/70 mmHg, HR 90 bpm, Temp 37.8°C, RR 18/min. Neurological examination reveals flaccid paralysis of the right upper and lower extremities with absent reflexes in the affected limbs. There is no muscle atrophy noted at this time. Cranial nerves are intact, and sensation is preserved. The left side of her body appears normal. No signs of respiratory distress. MRI of the spine shows inflammation in the gray matter of the spinal cord, primarily in the cervical and thoracic regions. Cerebrospinal fluid (CSF) analysis reveals pleocytosis with elevated white blood cells and normal glucose levels.
+
+Assessment: Sofia is diagnosed with acute flaccid myelitis (AFM) based on her sudden onset of limb weakness, the MRI findings of spinal cord inflammation, and the clinical presentation consistent with motor neuron involvement.
+
+Plan: Admit Sofia to the hospital for close monitoring and supportive care. Start intravenous immunoglobulin (IVIG) therapy to reduce inflammation and possibly improve outcomes.
+
+Medications:
+
+Intravenous immunoglobulin (IVIG) 2 g/kg over 2-5 days to manage inflammation.
+Methylprednisolone 30 mg/kg/day for 3-5 days to reduce inflammation, depending on neurologist consultation.
+Gabapentin 300 mg as needed to manage neuropathic pain, if present.
+Acetaminophen 500 mg as needed for fever or mild pain relief.
+Additional Plan: Consult a neurologist for further evaluation and management, including the potential use of corticosteroids. Arrange for physical and occupational therapy to maintain mobility and prevent complications related to immobility. Monitor respiratory function closely, providing mechanical ventilation if respiratory muscles become involved. Schedule follow-up MRIs to monitor spinal cord inflammation and recovery. Educate the family about the nature of AFM, its possible progression, and the importance of follow-up care.

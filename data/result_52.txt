@@ -1,0 +1,31 @@
+
+Patient Note:
+
+Patient Name: Hans Gruber
+Patient ID: 443322
+Age: 68
+Location: Austria
+
+Subjective: Hans Gruber, a 68-year-old male, presents with sudden onset weakness on the right side of his body and difficulty speaking, which started 2 hours ago. He describes feeling light-headed and experiencing chest pain earlier in the day, which he initially ignored. Hans also reports numbness in his right arm and leg. His medical history includes hypertension and high cholesterol, for which he is on medication. He is a former smoker and has a family history of cardiovascular disease.
+
+Objective: Vital signs: BP 160/95 mmHg, HR 98 bpm, Temp 36.9°C, RR 20/min, O2 saturation 94% on room air. On physical examination, Hans has slurred speech (dysarthria), facial asymmetry, and right-sided weakness (2/5 strength) in the upper and lower extremities. There is decreased sensation on the right side of the body. Cardiac auscultation reveals an irregular heartbeat, and lung fields are clear. A CT scan of the brain shows evidence of an acute ischemic stroke in the left middle cerebral artery (MCA) territory. Electrocardiogram (ECG) shows atrial fibrillation.
+
+Assessment: Hans is diagnosed with an acute ischemic stroke, likely secondary to atrial fibrillation. His sudden onset of right-sided weakness, speech difficulty, and the findings on the CT scan confirm the diagnosis. His history of hypertension and high cholesterol are contributing risk factors.
+
+Plan: Immediate administration of intravenous thrombolysis (alteplase 0.9 mg/kg IV over 1 hour) to restore blood flow, given that Hans is within the treatment window for ischemic stroke.
+
+Medications:
+
+Warfarin 5 mg daily or a direct oral anticoagulant (apixaban 5 mg twice daily) to manage atrial fibrillation and prevent future thromboembolic events.
+Atorvastatin 40 mg daily for cholesterol management.
+Lisinopril 10 mg daily to control blood pressure.
+Aspirin 81 mg daily as an antiplatelet therapy.
+Clopidogrel 75 mg daily for dual antiplatelet therapy during the acute phase.
+Acetaminophen 500 mg as needed for pain management, such as headaches.
+Additional Plan: Continue antihypertensive therapy to control blood pressure and statin therapy to manage cholesterol. Arrange for speech and physical therapy to address his speech difficulties and motor deficits. Monitor Hans in the intensive care unit (ICU) for close observation of neurological and cardiovascular status. Schedule follow-up imaging and evaluate long-term rehabilitation needs.
+
+
+
+
+
+

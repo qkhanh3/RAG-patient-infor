@@ -1,0 +1,13 @@
+Patient Note:
+
+Patient Name: David Williams
+Patient ID: 556677
+Age: 50
+
+Subjective: David Williams, a 50-year-old male, presents with increasing fatigue, muscle weakness, and frequent urination over the past three months. He reports excessive thirst and occasional blurred vision. He has also noticed unexplained weight loss of about 10 pounds during this period, despite no significant changes in his diet. David denies any chest pain, shortness of breath, or recent infections. His father had type 2 diabetes, and David has a history of hypertension, for which he is on medication.
+
+Objective: Vital signs: BP 135/85 mmHg, HR 80 bpm, Temp 36.7°C, RR 18/min. Physical examination shows no acute distress. The patient appears mildly dehydrated. No abnormalities are noted on cardiovascular and respiratory examinations. Laboratory tests reveal a fasting blood glucose level of 220 mg/dL and an HbA1c of 9.0%, both significantly elevated. A urinalysis shows glucosuria but no ketones.
+
+Assessment: David is diagnosed with type 2 diabetes mellitus, based on his elevated blood glucose levels, HbA1c, and symptoms of polyuria, polydipsia, and weight loss. His family history and personal risk factors further support the diagnosis.
+
+Plan: Initiate metformin 500 mg twice daily to improve blood glucose control. Advise David on dietary changes, including reducing carbohydrate intake, and refer him to a dietitian for diabetes education. Recommend regular exercise, aiming for at least 150 minutes of moderate activity per week. Instruct him on monitoring his blood sugar at home and recognizing signs of hypoglycemia. Schedule a follow-up in 4 weeks to evaluate his response to treatment and adjust medications if necessary. Encourage weight management and regular eye exams to monitor for diabetic complications.

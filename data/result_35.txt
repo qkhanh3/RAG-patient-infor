@@ -1,0 +1,14 @@
+Patient Note:
+
+Patient Name: José Pereira
+Patient ID: 554422
+Age: 76
+Location: Portugal
+
+Subjective: José Pereira, a 76-year-old male, presents with concerns of increasing forgetfulness and confusion over the past year. His family reports that José has difficulty remembering recent events and conversations, often repeating himself and misplacing objects. He has also shown signs of disorientation, such as getting lost while walking in familiar places. José occasionally struggles with word-finding and completing tasks that were once routine. He has no history of significant head trauma, and his medical history includes hypertension, for which he takes medication. His family denies any recent changes in mood or personality, but they are worried about his gradual decline in cognitive function.
+
+Objective: Vital signs: BP 132/80 mmHg, HR 72 bpm, Temp 36.6°C, RR 16/min. On cognitive testing, José demonstrates poor recall of recent events, scoring 18 out of 30 on the Mini-Mental State Examination (MMSE), indicating moderate cognitive impairment. There are no focal neurological deficits noted, and his motor function appears intact. Basic laboratory workup, including complete blood count, electrolytes, liver function, and thyroid function tests, is normal. A brain MRI shows generalized cortical atrophy, most pronounced in the hippocampal region.
+
+Assessment: José is diagnosed with Alzheimer's disease, given his progressive memory loss, disorientation, and cognitive decline, alongside MRI findings of hippocampal atrophy. The clinical presentation and cognitive testing further support the diagnosis.
+
+Plan: Start José on donepezil 5 mg daily to help manage symptoms and slow cognitive decline. Educate the family on the nature of Alzheimer's disease and discuss the importance of creating a safe living environment, considering José’s disorientation and forgetfulness. Encourage involvement in cognitive and social activities to maintain mental engagement. Arrange for regular follow-up visits to monitor cognitive function and adjust treatment as needed. Consider referral to a support group for Alzheimer's caregivers. Schedule an appointment in three months to assess the effectiveness of the treatment and make any necessary adjustments.
